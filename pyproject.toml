@@ -1,0 +1,18 @@
+[project]
+name = "image-narration-tool"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "google>=3.0.0",
+    "google-genai>=1.63.0",
+    "google-generativeai>=0.8.6",
+    "jupyter>=1.1.1",
+    "notebook>=7.5.3",
+    "pillow>=12.1.1",
+    "scipy>=1.17.0",
+    "timm>=1.0.24",
+    "torch>=2.10.0",
+    "transformers>=5.2.0",
+]
